@@ -99,9 +99,11 @@ function About() {
                                     <li>C++</li>
                                     <li>MySql DB</li>
                                     <li>HTML</li>
+                                    <li>Laravel</li>
                                 </ul>
 
                                 <ul>
+                                    <li>Tailwind CSS</li>
                                     <li>CSS</li>
                                     <li>Figma</li>
                                     <li>Canva</li>
@@ -223,3 +225,4 @@ function About() {
 }
 
 export default About
+
